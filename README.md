@@ -58,8 +58,8 @@ sudo apt install jenkins
 ## ▶️ Step 3: Start and Enable Jenkins Service
 
 ```bash
-sudo systemctl start jenkins
 sudo systemctl enable jenkins
+sudo systemctl start jenkins
 sudo systemctl status jenkins
 ```
 <img width="1210" height="323" alt="10 5" src="https://github.com/user-attachments/assets/ecc0f280-2dbd-4b7f-a5f4-436095b9bd30" />
