@@ -9,8 +9,11 @@ This guide explains how to **install Jenkins** on an **Ubuntu server**, **create
 Before you begin, ensure you have:
 
 #An AWS EC2 instance (t2.micro or larger) running Ubuntu.
+
 #SSH access to the instance.
+
 #sudo privileges.
+
 #Port 8080 open in the Security Group (for Jenkins web access).
 
 ---
@@ -94,7 +97,7 @@ sudo systemctl status jenkins
 2. Fill in the following fields:
 
    * Username: `admin`
-   * Password: `admin`
+   * Password: `*****`
    * Full Name: `admin`
    * Email: `admin@example.com`
 
@@ -145,8 +148,7 @@ Alternatively, you can create users via Jenkins CLI later.
 
 ## 🧩 Step 7: View Job Console Output
 
-1. Click the build number (#1).
-2. Select **Console Output** to view your job logs.
+Select **Console Output** to view your job logs.
 
 ---
 <img width="1185" height="388" alt="28" src="https://github.com/user-attachments/assets/22c7072f-d5e4-4cbd-8747-575e9f3fc556" />
