@@ -80,7 +80,7 @@ sudo systemctl status jenkins
    ```
 <img width="872" height="93" alt="12" src="https://github.com/user-attachments/assets/80694c28-364d-4d93-855d-972761dfc762" />
 
-3. Copy the password and paste it into the Jenkins setup page.
+3. Copy the password and paste it into the Jenkins setup page. Then customize jenkins using install suggested plugins and download them.
 <img width="1273" height="660" alt="13" src="https://github.com/user-attachments/assets/3c6f0ccf-2c89-462b-910c-a5d0af47f5b5" />
 <img width="1224" height="639" alt="14" src="https://github.com/user-attachments/assets/b6b33a9a-50e5-486b-9013-9af8fd5670de" />
 
