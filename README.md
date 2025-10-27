@@ -8,10 +8,10 @@ This guide explains how to **install Jenkins** on an **Ubuntu server**, **create
 
 Before you begin, ensure you have:
 
-#An AWS EC2 instance (t2.micro or larger) running Ubuntu
-#SSH access to the instance
-#sudo privileges
-#Port 8080 open in the Security Group (for Jenkins web access)
+#An AWS EC2 instance (t2.micro or larger) running Ubuntu.
+#SSH access to the instance.
+#sudo privileges.
+#Port 8080 open in the Security Group (for Jenkins web access).
 
 ---
 <img width="1347" height="618" alt="1" src="https://github.com/user-attachments/assets/f18f70b2-c2f6-48a9-a078-e78f3792cb0d" />
